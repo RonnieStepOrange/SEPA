@@ -1,0 +1,15 @@
+{
+    "name": "steporange/sepa",
+    "description": "SEPA handler for ProcessingHub",
+    "type": "library",
+    "require": {
+        "genkgo/camt": "^0.3.0"
+    },
+    "authors": [
+        {
+            "name": "StepOrange",
+            "email": "ronnie@steporange.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
